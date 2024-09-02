@@ -1,0 +1,12 @@
+h1
+{
+    color: white;
+    background-color: orchid;
+    text-decoration: aqua;
+    padding: 5px;
+    border-radius: 12px;
+    border: 5px solid rgb(7, 3, 3);
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+    
+
+}
